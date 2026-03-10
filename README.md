@@ -1,11 +1,21 @@
+# 📄One-Stop Document Center (ลดการเดินเอกสาร)
+  เพื่อพัฒนาการส่งเอกสาร
+## 🖥️การทำงานของหน้าต่าง UI ใน Web App
+ระบบนี้ช่วยให้การจัดการเอกสารองค์กรเป็น Electronic Workflow
+ลำดับการทำงาน (เบื้องต้น)
+1.พนักงานส่งเอกสารเข้าระบบ
+2.เอกสารถูกส่งตาม ลำดับการอนุมัติ
+3.หัวหน้า/ผู้บริหารตรวจสอบเอกสารผ่าน Dashboard
+4.อ่านรายละเอียดและไฟล์แนบ
+5.เลือกอนุมัติและเซ็นเอกสารหรือปฏิเสธพร้อมเหตุผล
+6.สามารถทำนำเอกสารที่เซ็นแล้วส่งกลับไปยังบุคคลที่ต้องการ (อาจยังไม่มีในตัวอย่าง)
+7.ติดตามสถานะเอกสารได้แบบเรียลไทม์
+8.คัดกรองเอกสารเช่น เอกสารของฉัน เอกสารที่กำลังรออนุมัติ เอกสารด่วน ประวัติเอกสารที่อนุมัติและปฎิเสธแล้ว
 
-  # Professional Document Management System
+## 🔗Link Figma 
+ตัวอย่างหน้าต่าง UI หลัก : [คลิกลิงก์](https://www.figma.com/make/SWZSRjKc7PtmqTRCZV6Wox/One-Stop-Document-Center--%E0%B8%A5%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3-?t=j8fFtvwY9gWpJmR4-20&fullscreen=1)
 
-  This is a code bundle for Professional Document Management System. The original project is available at https://www.figma.com/design/SWZSRjKc7PtmqTRCZV6Wox/Professional-Document-Management-System.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+## Running the code
+Run `npm i` to install the dependencies.
+Run `npm run dev` to start the development server.
   
